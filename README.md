@@ -25,5 +25,5 @@ Why few, to make the adblocking undetectable.
 18. No Ads
 19. (optional) Adblock Services & Localhost Adblock Database
 20. (optional) Aggressive Mode (Experimental Mode) When turned on, all settings will work at its aggressive way.
-
+21. (optional) ORBOT connect - it does privacy almost like tor but cannot visit Deep nor Dark Web.
 - Null VPN
