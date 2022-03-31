@@ -26,4 +26,12 @@ Why few, to make the adblocking undetectable.
 19. (optional) Adblock Services & Localhost Adblock Database
 20. (optional) Aggressive Mode (Experimental Mode) When turned on, all settings will work at its aggressive way.
 21. (optional) ORBOT connect - it does privacy almost like tor but cannot visit Deep nor Dark Web.
+22. BlockAdBlock Friendly - Uses script to make undetected by BlockAdBlock.
+23. Anti-AdBlock Blocker Killer Added
+24. Block Background Crypto Miner - Auto detect CPU/GPU Spike from Specific Tab.
+25. Protect Storage From being scanned - Download Dir (/sdcard/nullBrowser/Downloads) No Websites Can Read Storage Directory
+26. (optional) (not-available-on-slow-network)  Auto-Scan URL on VirusTotal
+27. Built-in Antivirus - To scan newly downloaded files. 
+
+
 - Null VPN
